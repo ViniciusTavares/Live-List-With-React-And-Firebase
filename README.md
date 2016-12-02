@@ -48,8 +48,8 @@ $ NODE_ENV=development node_modules/.bin/webpack -d
 
 ###Useful links:
 
-[Introdution to ES6](https://learn.co/lessons/introduction-to-es6)
-[Official Babel post about React on ES6+](https://babeljs.io/blog/2015/06/07/react-on-es6-plus)
-[WebPack's official docs](https://webpack.github.io/)
+[Introdution to ES6](https://learn.co/lessons/introduction-to-es6)  
+[Official Babel post about React on ES6+](https://babeljs.io/blog/2015/06/07/react-on-es6-plus)  
+[WebPack's official docs](https://webpack.github.io/)  
 
 Any doubts? Any issues? Give me some feedbacks, please! :)
