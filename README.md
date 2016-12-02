@@ -24,7 +24,7 @@ The index file is located in "src/static/". Remember that you need to prepare a 
 ###Preparing the enviroment using "http-server" (optional)
 
 Whether you haven't had an enviroment working yet, you can use the http-server that is a simple module to prepare a http enviroment to you.  
-I recommend to you saving it as a dev dependecy:
+I recommend to you saving it as a dev dependency:
 ```
 npm install http-server --save-dev
 node_modules/.bin/http-server src/static
