@@ -18,7 +18,7 @@ A very easy task! Just run this command on your terminal:
 npm install
 ```
 
-The index file is located in "src/static/". Remember that you need to prepare a http enviroment for testing this app. once everythink is ready the main page shoul look like this screenshot:
+The index file is located in "src/static/". Remember that you need to prepare a http enviroment for testing this app. once everythink is ready the main page should looks like this screenshot:
 <img src="https://github.com/ViniciusTavares/LiveListWithReactAndFirebase/blob/master/src/static/img/sample.png" />
 
 ###Preparing the enviroment using "http-server" (optional)
