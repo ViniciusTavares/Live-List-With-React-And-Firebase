@@ -2,7 +2,10 @@
   "name": "livelistwithreactandfirebase",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ViniciusTavares/LiveListWithReactAndFirebase"
+  },
   "dependencies": {
     "babel-cli": "^6.18.0",
     "babel-core": "^6.18.2",
@@ -20,8 +23,8 @@
     "webpack": "^1.13.3"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+
   },
-  "author": "Vinicius Tavares",
-  "license": "ISC"
+  "author": "Vinicius Tavares (vinicius.rafael19@hotmail.com)",
+  "license": "MIT"
 }
