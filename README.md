@@ -39,11 +39,11 @@ http-server src/static
 ###Regenerating the bundle (optional)
 I used webpack to handle my modules's dependencies and bundle them. The command below should generates the bundle again:
 ```
-$ NODE_ENV=production node_modules/.bin/webpack -p
+$ node_modules/.bin/webpack -p
 ```
 PS: You can change production mode to development mode just doing this:
 ```
-$ NODE_ENV=development node_modules/.bin/webpack -d
+$ node_modules/.bin/webpack -d
 ```
 
 ###Useful links:
