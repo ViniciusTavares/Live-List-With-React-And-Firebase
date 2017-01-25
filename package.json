@@ -6,6 +6,11 @@
     "type": "git",
     "url": "https://github.com/ViniciusTavares/LiveListWithReactAndFirebase"
   },
+  "scripts": {
+    "start": "npm run build && npm run start-server",
+    "build": "node_modules/.bin/webpack -p",
+    "start-server" : "node_modules/.bin/http-server src/static"
+  },
   "dependencies": {
     "babel-cli": "^6.18.0",
     "babel-core": "^6.18.2",
@@ -21,9 +26,6 @@
     "babel-loader": "^6.2.8",
     "http-server": "^0.9.0",
     "webpack": "^1.13.3"
-  },
-  "scripts": {
-
   },
   "author": "Vinicius Tavares (vinicius.rafael19@hotmail.com)",
   "license": "MIT"

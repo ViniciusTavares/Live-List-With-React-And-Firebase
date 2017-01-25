@@ -12,14 +12,19 @@ An app to showcase live communication using React plus Firebase through the [Rea
 If you don't know the ES6 syntax, I recommend to take a look at a brief introdution about it. It will be fast and will help you a lot with news knowledges.  
 
 ###Installing npm modules
-
-A very easy task! Just run this command on your terminal:
 ```
 npm install
 ```
 
 The index file is located in "src/static/". Remember that you need to prepare a http enviroment for testing this app. once everythink is ready the main page should looks like this screenshot:
 <img src="https://github.com/ViniciusTavares/LiveListWithReactAndFirebase/blob/master/src/static/img/sample.png" />
+
+###The fastest way to run this app
+There's a start task for bundling the code and starting the server. Run:
+```
+npm start
+```
+The two topics below are not required.
 
 ###Preparing the enviroment using "http-server" (optional)
 
