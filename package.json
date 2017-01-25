@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "npm run build && npm run start-server",
-    "build": "node_modules/.bin/webpack -p",
+    "build": "node_modules/.bin/webpack -d",
     "start-server" : "node_modules/.bin/http-server src/static"
   },
   "dependencies": {
